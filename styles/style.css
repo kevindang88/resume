@@ -1,0 +1,18 @@
+html {
+    font-family: 'Martel Sans', sans-serif;
+}
+
+header {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    width: 720px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
